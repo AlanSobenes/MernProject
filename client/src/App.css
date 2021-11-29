@@ -1,0 +1,177 @@
+.App {
+  /* text-align: center; */
+  background-color:rgb(255, 255, 255);
+  
+  
+}
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  background-color:ivory;
+  height: 75px;
+  margin-bottom: -9px;
+}
+.flex{
+  display: flex;
+  color:orange;
+
+}
+
+.logo{
+  margin: 5px;
+  border-radius: 15%;
+  border:3px solid orange;
+  padding: 1px;
+  
+}
+
+.home{
+  margin-top: 2%;
+}
+.homeLogo{
+  text-align: center;
+}
+.brewNavBar{
+  color: black;
+  margin-left: 25%;
+
+  
+}
+.list{
+  color:lightslategray;
+  margin-right: 20px;
+}
+.bn39 {
+  background-image: linear-gradient(135deg, orange, lightyellow);
+  border-radius: 6px;
+  box-sizing: border-box;
+  color: #ffffff;
+  display: block;
+  height: 50px;
+  font-size: 1.4em;
+  font-weight: 600;
+  padding: 4px;
+  position: relative;
+  text-decoration: none;
+  width: 7em;
+  z-index: 2;
+}
+
+.bn39:hover {
+  color: #fff;
+}
+
+.bn39 .bn39span {
+  align-items: center;
+  background:cornflowerblue;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  transition: background 0.5s ease;
+  width: 100%;
+}
+
+.bn39:hover .bn39span {
+  background: transparent;
+}
+.hover{
+  background: linear-gradient(to right,cornflowerblue, cornflowerblue 50%, orange 50%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 100%;
+  background-position: 100%;
+  transition: background-position 275ms ease;
+}
+.hover:hover{
+  background-position: 0 100%;
+}
+
+.shrink {
+  transition: 1s ease;
+  }
+  
+  .shrink:hover{
+  -webkit-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  transition: 1s ease;
+  }
+  .hover01{
+    background: linear-gradient(to right,orange, orange 50%, cornflowerblue 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 275ms ease;
+  }
+  .hover01:hover{
+    background-position: 0 100%;
+  }
+  .grow{
+    transition: 1s ease;
+    
+    }
+    
+    .grow:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+  
+    }
+    .hover02{
+      background: linear-gradient(to right, chocolate,black 50%,grey 50%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-size: 200% 100%;
+      background-position: 100%;
+      transition: background-position 275ms ease;
+    }
+    .hover02:hover{
+      background-position: 0 100%;
+    }
+    .grow2{
+      transition: 1s ease;
+     background-color:navajowhite;
+      }
+      
+      .grow2:hover{
+        background-color: red;
+      -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+      transform: scale(1.2);
+      transition: 1s ease;
+      }
+      .grow3{
+        transition: 1s ease;
+        background-color: lightgreen;
+        
+        }
+        
+        .grow3:hover{
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+        transition: 1s ease;
+        background-color: limegreen;
+      
+        }
+        .shrink2 {
+          transition: 1s ease;
+          background-color: lightpink;
+          }
+          
+          .shrink2:hover{
+          -webkit-transform: scale(0.8);
+          -ms-transform: scale(0.8);
+          transform: scale(0.8);
+          transition: 1s ease;
+          background-color: red;
+          }
+
+    
+          

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12f22ca0.chunk.css",
+    "main.js": "/static/js/main.1503e39a.chunk.js",
+    "main.js.map": "/static/js/main.1503e39a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3914f258.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3914f258.js.map",
+    "static/js/2.34bc46af.chunk.js": "/static/js/2.34bc46af.chunk.js",
+    "static/js/2.34bc46af.chunk.js.map": "/static/js/2.34bc46af.chunk.js.map",
+    "static/js/3.4926b306.chunk.js": "/static/js/3.4926b306.chunk.js",
+    "static/js/3.4926b306.chunk.js.map": "/static/js/3.4926b306.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.12f22ca0.chunk.css.map": "/static/css/main.12f22ca0.chunk.css.map",
+    "static/js/2.34bc46af.chunk.js.LICENSE.txt": "/static/js/2.34bc46af.chunk.js.LICENSE.txt",
+    "static/media/berries.b32807d6.jpg": "/static/media/berries.b32807d6.jpg",
+    "static/media/coffeeBeans.34acd94a.jpg": "/static/media/coffeeBeans.34acd94a.jpg",
+    "static/media/logo.41f7a829.png": "/static/media/logo.41f7a829.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3914f258.js",
+    "static/js/2.34bc46af.chunk.js",
+    "static/css/main.12f22ca0.chunk.css",
+    "static/js/main.1503e39a.chunk.js"
+  ]
+}
